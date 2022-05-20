@@ -1,0 +1,14 @@
+.copy-to-clipboard-button{
+    cursor: pointer;
+    color: #b9bddb !important;
+    border: 0.1rem solid #b9bddb !important;
+    border-radius: 0.3rem !important;
+    margin-right: 0.6rem;
+    margin-top: 0.4rem;
+}
+
+.code-toolbar pre{
+    background-color: #575c83;
+    border-radius: 0.7rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
